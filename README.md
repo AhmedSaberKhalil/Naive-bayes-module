@@ -1,1 +1,1 @@
-# Naive-bayes-module classification model for predicting wine quality
+# Naive-bayes classification module model for predicting wine quality
